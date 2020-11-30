@@ -4,14 +4,12 @@
 
 ## Tasks
 
-- [ ] Test the pipeline on the a dataset  in [Data/Sample_dataset](Data/Sample_dataset)
-  - [ ] adapt the code to reduce space usage at the rRNA step
-  - [ ] test on [Data/Sample_dataset](Data/Sample_dataset)
 - [ ] [README](Bioinformatics/ReadCountPipeline/README.md)
   - [ ] Usage 
   - [ ] Step description
   - [ ] introduction
 - [ ] publish the pipeline on Github
+- [ ] Adapt the pipeline for C.glabrata
 
 ## Done
 
@@ -27,3 +25,6 @@
   - [x] filtering for low complexity
   - [x] Remove rRNA
   - [x] QC Analysis
+- [x] Test the pipeline on the a dataset  in [Data/Sample_dataset](Data/Sample_dataset)
+  - [x] adapt the code to reduce space usage at the rRNA step
+  - [x] test on [Data/Sample_dataset](Data/Sample_dataset)
